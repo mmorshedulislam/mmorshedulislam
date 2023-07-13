@@ -1,6 +1,8 @@
 
 ![I am a Jr. Full-stack (MERN) Developer.](https://media.licdn.com/dms/image/D5616AQGhs2qJNPzX1w/profile-displaybackgroundimage-shrink_350_1400/0/1670441906212?e=1694649600&v=beta&t=nh585gtLS97uvOfd7Qg6wkMSjVyin_4QejEzATSMIHo)
 
+![](https://komarev.com/ghpvc/?username=mmorshedulislam&&color=blue&style=for-the-badge)
+
 ### Hi there 👋, I'm Md Morshedul Islam
 #### I am a Jr. Full-stack (MERN) Developer.
 
@@ -23,8 +25,6 @@ Skills: React / Redux / Next.js / JavaScript / Node.js / Express.js / MongoDB / 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mmorshedulislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-morshedul-islam-100/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mmorshedul.islam.100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m.morshedul.islam.100/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Morshed_100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19939492/m-morshedul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://morshed-portfolio.netlify.app)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mmorshedulislam)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmorshedulislam&layout=pie)](https://github.com/mmorshedulislam/github-readme-stats)
 
