@@ -33,10 +33,9 @@ Skills: React / Redux / Next.js / JavaScript / Node.js / Express.js / MongoDB / 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mmorshedulislam)  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mmorshedulislam&custom_title=Github%20Readme%20Activity%20Graph&hide_border=true)](https://github.com/mmorshedulislam/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mmorshedulislam&theme=xcode&custom_title=Md%20Morshedul%20Islam's%20Contribution%20Graph&hide_border=true)](https://github.com/mmorshedulislam/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/mmorshedulislam)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mmorshedulislam)  
 
-![Profile views](https://gpvc.arturio.dev/mmorshedulislam)  
