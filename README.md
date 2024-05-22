@@ -21,7 +21,7 @@ Let's embark on a journey of innovation and excellence together!
 Skills: React / Redux / Next.js / JavaScript / Node.js / Express.js / MongoDB / Mongoose / HTML / CSS / JWT
 
 - 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning MERN Stack Development 
+- 🌱 I’m currently learning C, C++ and DSA. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mmorshedulislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-morshedul-islam-100/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mmorshedul.islam.100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m.morshedul.islam.100/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Morshed_100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19939492/m-morshedul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://morshed-portfolio.netlify.app)  
 
